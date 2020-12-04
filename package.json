@@ -1,0 +1,25 @@
+{
+  "name": "introduccion-node-ts",
+  "version": "1.0.0",
+  "description": "Introducción a Node con TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastian197/introduccion-node-ts.git"
+  },
+  "keywords": [
+      "nodets",
+      "typescript",
+      "introducción"
+  ],
+  "author": "Sebastián Moreno Saavedra <morenosebastian117@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sebastian197/introduccion-node-ts/issues"
+  },
+  "homepage": "https://github.com/Sebastian197/introduccion-node-ts#readme"
+}
